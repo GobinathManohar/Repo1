@@ -45,5 +45,8 @@ public class AppTest
         System.out.println("created for PR");  
     }
     
-    
+    public void methos2() {
+    	
+    	System.out.println("PR 2");
+    }
 }
