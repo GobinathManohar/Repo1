@@ -35,4 +35,8 @@ public class AppTest
     {
         assertTrue( false );
     }
+    public void methos2() {
+    	
+    	System.out.println("PR 2");
+    }
 }
