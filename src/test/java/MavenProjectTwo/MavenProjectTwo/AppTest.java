@@ -36,4 +36,14 @@ public class AppTest
         assertTrue( false );
         assertTrue( true );   
     }
+    
+    /**
+     * Rigourous Test :-)
+     */
+    public void method1()
+    {
+        System.out.println("created for PR");  
+    }
+    
+    
 }
